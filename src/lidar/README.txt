@@ -1,3 +1,5 @@
+This code has been retrieved from the github repository: https://github.com/Grantham00/rplidar_detection
+
 # RPLIDAR A2M12 Object Detection and Segmentation
 
 This project uses the RPLIDAR A2M12 to scan and visualize objects by segmenting LIDAR scan points and fitting lines to these segments in real-time.
