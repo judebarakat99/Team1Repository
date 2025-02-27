@@ -1,0 +1,28 @@
+/home/mscrobotics2425laptop37/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:270: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+writing ../../build/color_detection_pkg/color_detection_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/color_detection_pkg/color_detection_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/color_detection_pkg/color_detection_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/color_detection_pkg/color_detection_pkg.egg-info/requires.txt
+writing top-level names to ../../build/color_detection_pkg/color_detection_pkg.egg-info/top_level.txt
+reading manifest file '../../build/color_detection_pkg/color_detection_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/color_detection_pkg/color_detection_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying color_detection_pkg/color_detection_publisher.py -> /home/mscrobotics2425laptop37/Documents/SystemsDesignProject/Team1Repository/objectDetection/attempt9-UsingSDK/attempt9.2/ros_ws/build/color_detection_pkg/build/lib/color_detection_pkg
+copying color_detection_pkg/color_detection_subscriber.py -> /home/mscrobotics2425laptop37/Documents/SystemsDesignProject/Team1Repository/objectDetection/attempt9-UsingSDK/attempt9.2/ros_ws/build/color_detection_pkg/build/lib/color_detection_pkg
+copying color_detection_pkg/__init__.py -> /home/mscrobotics2425laptop37/Documents/SystemsDesignProject/Team1Repository/objectDetection/attempt9-UsingSDK/attempt9.2/ros_ws/build/color_detection_pkg/build/lib/color_detection_pkg
+running install
+running install_lib
+running install_data
+copying resource/color_detection_pkg -> /home/mscrobotics2425laptop37/Documents/SystemsDesignProject/Team1Repository/objectDetection/attempt9-UsingSDK/attempt9.2/ros_ws/install/color_detection_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/mscrobotics2425laptop37/Documents/SystemsDesignProject/Team1Repository/objectDetection/attempt9-UsingSDK/attempt9.2/ros_ws/install/color_detection_pkg/share/color_detection_pkg
+copying launch/color_detection_launch.py -> /home/mscrobotics2425laptop37/Documents/SystemsDesignProject/Team1Repository/objectDetection/attempt9-UsingSDK/attempt9.2/ros_ws/install/color_detection_pkg/share/color_detection_pkg/launch
+running install_egg_info
+removing '/home/mscrobotics2425laptop37/Documents/SystemsDesignProject/Team1Repository/objectDetection/attempt9-UsingSDK/attempt9.2/ros_ws/install/color_detection_pkg/lib/python3.10/site-packages/color_detection_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/color_detection_pkg/color_detection_pkg.egg-info to /home/mscrobotics2425laptop37/Documents/SystemsDesignProject/Team1Repository/objectDetection/attempt9-UsingSDK/attempt9.2/ros_ws/install/color_detection_pkg/lib/python3.10/site-packages/color_detection_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing color_detection_publisher script to /home/mscrobotics2425laptop37/Documents/SystemsDesignProject/Team1Repository/objectDetection/attempt9-UsingSDK/attempt9.2/ros_ws/install/color_detection_pkg/lib/color_detection_pkg
+Installing color_detection_subscriber script to /home/mscrobotics2425laptop37/Documents/SystemsDesignProject/Team1Repository/objectDetection/attempt9-UsingSDK/attempt9.2/ros_ws/install/color_detection_pkg/lib/color_detection_pkg
+writing list of installed files to '/home/mscrobotics2425laptop37/Documents/SystemsDesignProject/Team1Repository/objectDetection/attempt9-UsingSDK/attempt9.2/ros_ws/build/color_detection_pkg/install.log'

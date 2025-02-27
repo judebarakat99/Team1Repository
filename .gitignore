@@ -1,0 +1,3 @@
+./ObjectDetection/Videos/*
+./ObjectDetection/Videos
+./.gitignore
