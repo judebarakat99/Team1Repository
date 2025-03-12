@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: lidar_obstacle_avoidance
+Version: 0.0.0
+Summary: TODO: Package description
+Maintainer: mscrobotics2425laptop37
+Maintainer-email: judebarakat@yahoo.com
+License: TODO: License declaration
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary
