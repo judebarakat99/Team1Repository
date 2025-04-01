@@ -1,3 +1,182 @@
 ./ObjectDetection/Videos/*
 ./ObjectDetection/Videos
 ./.gitignore
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/.built_by
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/COLCON_IGNORE
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/colcon_build.rc
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/colcon_command_prefix_setup_py.sh
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/colcon_command_prefix_setup_py.sh.env
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/install.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/build/lib/lidar_pkg/__init__.py
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/build/lib/lidar_pkg/lidar_publisher.py
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/build/lib/lidar_pkg/lidar_subscriber.py
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/dependency_links.txt
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/entry_points.txt
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/PKG-INFO
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/requires.txt
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/SOURCES.txt
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/top_level.txt
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/zip-safe
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/prefix_override/sitecustomize.py
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/build/lidar_pkg/prefix_override/__pycache__/sitecustomize.cpython-310.pyc
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/_local_setup_util_ps1.py
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/_local_setup_util_sh.py
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/.colcon_install_layout
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/COLCON_IGNORE
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/local_setup.bash
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/local_setup.ps1
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/local_setup.sh
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/local_setup.zsh
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/setup.bash
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/setup.ps1
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/setup.sh
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/setup.zsh
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/lidar_pkg/lidar_publisher
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/lidar_pkg/lidar_subscriber
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/__init__.py
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/lidar_publisher.py
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/lidar_subscriber.py
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/__pycache__/__init__.cpython-310.pyc
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/__pycache__/lidar_publisher.cpython-310.pyc
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/__pycache__/lidar_subscriber.cpython-310.pyc
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/dependency_links.txt
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/entry_points.txt
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/PKG-INFO
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/requires.txt
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/SOURCES.txt
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/top_level.txt
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/zip-safe
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/ament_index/resource_index/packages/lidar_pkg
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/colcon-core/packages/lidar_pkg
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.bash
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.dsv
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.ps1
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.sh
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.xml
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.zsh
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/ament_prefix_path.dsv
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/ament_prefix_path.ps1
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/ament_prefix_path.sh
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/pythonpath.dsv
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/pythonpath.ps1
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/pythonpath.sh
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/COLCON_IGNORE
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/latest
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/latest_build
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-02-49/events.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-02-49/logger_all.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-03-13/events.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-03-13/logger_all.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-03-13/lidar_pkg/command.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-03-13/lidar_pkg/stderr.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-03-13/lidar_pkg/stdout_stderr.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-03-13/lidar_pkg/stdout.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-03-13/lidar_pkg/streams.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-07-20/events.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-07-20/logger_all.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-07-20/lidar_pkg/command.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-07-20/lidar_pkg/stderr.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-07-20/lidar_pkg/stdout_stderr.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-07-20/lidar_pkg/stdout.log
+Navigation/attempt2 - rosws code/attempt2.2 - fake scan/ros_ws/log/build_2025-03-19_17-07-20/lidar_pkg/streams.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/.built_by
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/COLCON_IGNORE
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/colcon_build.rc
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/colcon_command_prefix_setup_py.sh
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/colcon_command_prefix_setup_py.sh.env
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/install.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/build/lib/lidar_pkg/__init__.py
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/build/lib/lidar_pkg/lidar_publisher.py
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/build/lib/lidar_pkg/lidar_subscriber.py
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/dependency_links.txt
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/entry_points.txt
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/PKG-INFO
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/requires.txt
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/SOURCES.txt
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/top_level.txt
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/lidar_pkg.egg-info/zip-safe
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/prefix_override/sitecustomize.py
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/build/lidar_pkg/prefix_override/__pycache__/sitecustomize.cpython-310.pyc
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/_local_setup_util_ps1.py
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/_local_setup_util_sh.py
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/.colcon_install_layout
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/COLCON_IGNORE
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/local_setup.bash
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/local_setup.ps1
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/local_setup.sh
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/local_setup.zsh
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/setup.bash
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/setup.ps1
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/setup.sh
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/setup.zsh
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/lidar_pkg/lidar_publisher
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/lidar_pkg/lidar_subscriber
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/__init__.py
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/lidar_publisher.py
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/lidar_subscriber.py
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/__pycache__/__init__.cpython-310.pyc
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/__pycache__/lidar_publisher.cpython-310.pyc
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/__pycache__/lidar_subscriber.cpython-310.pyc
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/dependency_links.txt
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/entry_points.txt
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/PKG-INFO
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/requires.txt
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/SOURCES.txt
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/top_level.txt
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info/zip-safe
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/ament_index/resource_index/packages/lidar_pkg
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/colcon-core/packages/lidar_pkg
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.bash
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.dsv
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.ps1
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.sh
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.xml
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/package.zsh
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/ament_prefix_path.dsv
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/ament_prefix_path.ps1
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/ament_prefix_path.sh
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/pythonpath.dsv
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/pythonpath.ps1
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/hook/pythonpath.sh
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/launch/lidar_launch.py
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/install/lidar_pkg/share/lidar_pkg/launch/__pycache__/lidar_launch.cpython-310.pyc
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/COLCON_IGNORE
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/latest
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/latest_build
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-02-49/events.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-02-49/logger_all.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-03-13/events.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-03-13/logger_all.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-03-13/lidar_pkg/command.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-03-13/lidar_pkg/stderr.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-03-13/lidar_pkg/stdout_stderr.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-03-13/lidar_pkg/stdout.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-03-13/lidar_pkg/streams.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-07-20/events.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-07-20/logger_all.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-07-20/lidar_pkg/command.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-07-20/lidar_pkg/stderr.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-07-20/lidar_pkg/stdout_stderr.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-07-20/lidar_pkg/stdout.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-07-20/lidar_pkg/streams.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-12-59/events.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-12-59/logger_all.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-12-59/lidar_pkg/command.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-12-59/lidar_pkg/stderr.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-12-59/lidar_pkg/stdout_stderr.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-12-59/lidar_pkg/stdout.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-12-59/lidar_pkg/streams.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-16-22/events.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-16-22/logger_all.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-16-22/lidar_pkg/command.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-16-22/lidar_pkg/stderr.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-16-22/lidar_pkg/stdout_stderr.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-16-22/lidar_pkg/stdout.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-16-22/lidar_pkg/streams.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-18-20/events.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-18-20/logger_all.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-18-20/lidar_pkg/command.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-18-20/lidar_pkg/stderr.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-18-20/lidar_pkg/stdout_stderr.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-18-20/lidar_pkg/stdout.log
+Navigation/attempt2 - rosws code/attempt2.3- real scan/ros_ws/log/build_2025-03-19_17-18-20/lidar_pkg/streams.log
