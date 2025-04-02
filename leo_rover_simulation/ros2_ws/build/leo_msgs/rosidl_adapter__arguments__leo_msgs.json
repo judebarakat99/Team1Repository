@@ -1,0 +1,10 @@
+{
+  "package_name": "leo_msgs",
+  "non_idl_tuples": [
+    "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_msgs:msg/Imu.msg",
+    "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_msgs:msg/WheelOdom.msg",
+    "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_msgs:msg/WheelOdomMecanum.msg",
+    "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_msgs:msg/WheelStates.msg",
+    "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_msgs:srv/SetImuCalibration.srv"
+  ]
+}

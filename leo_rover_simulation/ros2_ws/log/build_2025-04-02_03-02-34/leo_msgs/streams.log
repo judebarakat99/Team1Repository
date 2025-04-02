@@ -1,0 +1,357 @@
+[0.132s] Invoking command in '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/leo_msgs': CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_teleop:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_simulator:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_navigation_tutorial_ros2:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_bringup:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_worlds:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_plugins:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_description/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo:/home/mscrobotics2425laptop35/ros2_wss/install/map2gazebo:/home/mscrobotics2425laptop35/ros2_wss/install/example_urdf_robot:/home/mscrobotics2425laptop35/ros2_wss/install/example_gz_robot:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/the_simplest_python_package:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_node:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_services:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_messages:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_parameters_and_launch_files:/opt/ros/humble:/home/mscrobotics2425laptop35/ros2_wss/install/leo_navigation:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/package_with_interfaces /usr/bin/cmake /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_msgs -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs
+[1.341s] -- The C compiler identification is GNU 11.4.0
+[1.341s] -- The CXX compiler identification is GNU 11.4.0
+[1.341s] -- Detecting C compiler ABI info
+[1.341s] -- Detecting C compiler ABI info - done
+[1.342s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.342s] -- Detecting C compile features
+[1.343s] -- Detecting C compile features - done
+[1.343s] -- Detecting CXX compiler ABI info
+[1.343s] -- Detecting CXX compiler ABI info - done
+[1.343s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.350s] -- Detecting CXX compile features
+[1.350s] -- Detecting CXX compile features - done
+[1.350s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.886s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.311s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.326s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.346s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.496s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.595s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[3.971s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[4.845s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.802s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.895s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[5.898s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[6.006s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[6.006s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.006s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[6.006s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[6.097s] -- Found PythonExtra: .so  
+[6.231s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[6.272s] -- Added test 'lint_cmake' to check CMake code style
+[6.273s] -- Added test 'xmllint' to check XML markup files
+[6.290s] -- Configuring done
+[6.419s] -- Generating done
+[6.429s] -- Build files have been written to: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/leo_msgs
+[6.455s] Invoked command in '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/leo_msgs' returned '0': CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_teleop:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_simulator:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_navigation_tutorial_ros2:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_bringup:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_worlds:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_plugins:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_description/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo:/home/mscrobotics2425laptop35/ros2_wss/install/map2gazebo:/home/mscrobotics2425laptop35/ros2_wss/install/example_urdf_robot:/home/mscrobotics2425laptop35/ros2_wss/install/example_gz_robot:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/the_simplest_python_package:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_node:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_services:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_messages:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_parameters_and_launch_files:/opt/ros/humble:/home/mscrobotics2425laptop35/ros2_wss/install/leo_navigation:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/package_with_interfaces /usr/bin/cmake /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_msgs -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs
+[6.456s] Invoking command in '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/leo_msgs': CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_teleop:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_simulator:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_navigation_tutorial_ros2:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_bringup:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_worlds:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_plugins:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_description/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo:/home/mscrobotics2425laptop35/ros2_wss/install/map2gazebo:/home/mscrobotics2425laptop35/ros2_wss/install/example_urdf_robot:/home/mscrobotics2425laptop35/ros2_wss/install/example_gz_robot:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/the_simplest_python_package:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_node:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_services:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_messages:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_parameters_and_launch_files:/opt/ros/humble:/home/mscrobotics2425laptop35/ros2_wss/install/leo_navigation:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/package_with_interfaces /usr/bin/cmake --build /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/leo_msgs -- -j12 -l12
+[6.590s] [  1%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[8.415s] [  1%] Built target leo_msgs__cpp
+[8.465s] [  1%] Built target ament_cmake_python_copy_leo_msgs
+[8.482s] [  3%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[10.061s] [  4%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/leo_msgs/msg/detail/imu__type_support.cpp.o[0m
+[11.291s] [  6%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/leo_msgs/srv/detail/set_imu_calibration__type_support.cpp.o[0m
+[12.455s] [  7%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/leo_msgs/msg/detail/wheel_states__type_support.cpp.o[0m
+[13.445s] [  9%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/leo_msgs/msg/detail/wheel_odom_mecanum__type_support.cpp.o[0m
+[14.345s] [ 11%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/leo_msgs/msg/detail/wheel_odom__type_support.cpp.o[0m
+[15.336s] [ 12%] [32m[1mLinking CXX shared library libleo_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[15.552s] [ 12%] Built target leo_msgs__rosidl_typesupport_introspection_cpp
+[16.258s] running egg_info
+[16.258s] creating leo_msgs.egg-info
+[16.259s] writing leo_msgs.egg-info/PKG-INFO
+[16.259s] writing dependency_links to leo_msgs.egg-info/dependency_links.txt
+[16.262s] writing top-level names to leo_msgs.egg-info/top_level.txt
+[16.262s] writing manifest file 'leo_msgs.egg-info/SOURCES.txt'
+[16.262s] reading manifest file 'leo_msgs.egg-info/SOURCES.txt'
+[16.262s] writing manifest file 'leo_msgs.egg-info/SOURCES.txt'
+[16.318s] [ 12%] Built target ament_cmake_python_build_leo_msgs_egg
+[16.343s] [ 14%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[17.895s] [ 15%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/leo_msgs/msg/detail/dds_fastrtps/imu__type_support.cpp.o[0m
+[18.956s] [ 17%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/leo_msgs/srv/detail/dds_fastrtps/set_imu_calibration__type_support.cpp.o[0m
+[19.962s] [ 19%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/leo_msgs/msg/detail/dds_fastrtps/wheel_states__type_support.cpp.o[0m
+[20.932s] [ 20%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/leo_msgs/msg/detail/dds_fastrtps/wheel_odom_mecanum__type_support.cpp.o[0m
+[21.794s] [ 22%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/leo_msgs/msg/detail/dds_fastrtps/wheel_odom__type_support.cpp.o[0m
+[22.600s] [ 23%] [32m[1mLinking CXX shared library libleo_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[22.781s] [ 23%] Built target leo_msgs__rosidl_typesupport_fastrtps_cpp
+[22.805s] [ 25%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[23.783s] [ 26%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/leo_msgs/msg/imu__type_support.cpp.o[0m
+[24.402s] [ 28%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/leo_msgs/srv/set_imu_calibration__type_support.cpp.o[0m
+[25.048s] [ 30%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/leo_msgs/msg/wheel_states__type_support.cpp.o[0m
+[25.712s] [ 31%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/leo_msgs/msg/wheel_odom_mecanum__type_support.cpp.o[0m
+[26.321s] [ 33%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/leo_msgs/msg/wheel_odom__type_support.cpp.o[0m
+[26.905s] [ 34%] [32m[1mLinking CXX shared library libleo_msgs__rosidl_typesupport_cpp.so[0m
+[27.002s] [ 34%] Built target leo_msgs__rosidl_typesupport_cpp
+[27.022s] [ 36%] [34m[1mGenerating C code for ROS interfaces[0m
+[28.722s] [ 38%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_c.dir/rosidl_generator_c/leo_msgs/msg/detail/imu__functions.c.o[0m
+[28.821s] [ 39%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_c.dir/rosidl_generator_c/leo_msgs/srv/detail/set_imu_calibration__functions.c.o[0m
+[28.943s] [ 41%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_c.dir/rosidl_generator_c/leo_msgs/msg/detail/wheel_states__functions.c.o[0m
+[29.051s] [ 42%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_c.dir/rosidl_generator_c/leo_msgs/msg/detail/wheel_odom_mecanum__functions.c.o[0m
+[29.164s] [ 44%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_c.dir/rosidl_generator_c/leo_msgs/msg/detail/wheel_odom__functions.c.o[0m
+[29.278s] [ 46%] [32m[1mLinking C shared library libleo_msgs__rosidl_generator_c.so[0m
+[29.382s] [ 46%] Built target leo_msgs__rosidl_generator_c
+[29.409s] [ 47%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[30.852s] [ 49%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/leo_msgs/msg/detail/imu__type_support_c.cpp.o[0m
+[31.766s] [ 50%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/leo_msgs/srv/detail/set_imu_calibration__type_support_c.cpp.o[0m
+[32.560s] [ 52%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/leo_msgs/msg/detail/wheel_states__type_support_c.cpp.o[0m
+[33.187s] [ 53%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/leo_msgs/msg/detail/wheel_odom_mecanum__type_support_c.cpp.o[0m
+[33.877s] [ 55%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/leo_msgs/msg/detail/wheel_odom__type_support_c.cpp.o[0m
+[34.679s] [ 57%] [32m[1mLinking CXX shared library libleo_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[34.876s] [ 57%] Built target leo_msgs__rosidl_typesupport_fastrtps_c
+[34.898s] [ 58%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[35.831s] [ 60%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/leo_msgs/msg/imu__type_support.cpp.o[0m
+[35.909s] [ 61%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/leo_msgs/srv/set_imu_calibration__type_support.cpp.o[0m
+[35.976s] [ 63%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/leo_msgs/msg/wheel_states__type_support.cpp.o[0m
+[36.044s] [ 65%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/leo_msgs/msg/wheel_odom_mecanum__type_support.cpp.o[0m
+[36.105s] [ 66%] [32mBuilding CXX object CMakeFiles/leo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/leo_msgs/msg/wheel_odom__type_support.cpp.o[0m
+[36.174s] [ 68%] [32m[1mLinking CXX shared library libleo_msgs__rosidl_typesupport_c.so[0m
+[36.276s] [ 68%] Built target leo_msgs__rosidl_typesupport_c
+[36.306s] [ 69%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[37.779s] [ 71%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/leo_msgs/msg/detail/imu__type_support.c.o[0m
+[37.849s] [ 73%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/leo_msgs/srv/detail/set_imu_calibration__type_support.c.o[0m
+[37.926s] [ 74%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/leo_msgs/msg/detail/wheel_states__type_support.c.o[0m
+[38.018s] [ 76%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/leo_msgs/msg/detail/wheel_odom_mecanum__type_support.c.o[0m
+[38.094s] [ 77%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/leo_msgs/msg/detail/wheel_odom__type_support.c.o[0m
+[38.169s] [ 79%] [32m[1mLinking C shared library libleo_msgs__rosidl_typesupport_introspection_c.so[0m
+[38.262s] [ 79%] Built target leo_msgs__rosidl_typesupport_introspection_c
+[38.322s] [ 79%] Built target leo_msgs
+[38.385s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[40.960s] [ 80%] Built target leo_msgs__py
+[41.007s] [ 82%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_py.dir/rosidl_generator_py/leo_msgs/msg/_imu_s.c.o[0m
+[41.229s] [ 84%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_py.dir/rosidl_generator_py/leo_msgs/srv/_set_imu_calibration_s.c.o[0m
+[41.490s] [ 85%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_py.dir/rosidl_generator_py/leo_msgs/msg/_wheel_states_s.c.o[0m
+[41.765s] [ 87%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_py.dir/rosidl_generator_py/leo_msgs/msg/_wheel_odom_mecanum_s.c.o[0m
+[41.993s] [ 88%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_py.dir/rosidl_generator_py/leo_msgs/msg/_wheel_odom_s.c.o[0m
+[42.248s] [ 90%] [32m[1mLinking C shared library rosidl_generator_py/leo_msgs/libleo_msgs__rosidl_generator_py.so[0m
+[42.345s] [ 90%] Built target leo_msgs__rosidl_generator_py
+[42.398s] [ 92%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/leo_msgs/_leo_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[42.657s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/leo_msgs/leo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[42.740s] [ 93%] Built target leo_msgs__rosidl_typesupport_fastrtps_c__pyext
+[42.782s] [ 95%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/leo_msgs/_leo_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[43.044s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/leo_msgs/leo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[43.128s] [ 96%] Built target leo_msgs__rosidl_typesupport_c__pyext
+[43.171s] [ 98%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/leo_msgs/_leo_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[43.422s] [100%] [32m[1mLinking C shared library rosidl_generator_py/leo_msgs/leo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[43.504s] [100%] Built target leo_msgs__rosidl_typesupport_introspection_c__pyext
+[43.534s] Invoked command in '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/leo_msgs' returned '0': CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_teleop:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_simulator:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_navigation_tutorial_ros2:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_bringup:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_worlds:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_plugins:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_description/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo:/home/mscrobotics2425laptop35/ros2_wss/install/map2gazebo:/home/mscrobotics2425laptop35/ros2_wss/install/example_urdf_robot:/home/mscrobotics2425laptop35/ros2_wss/install/example_gz_robot:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/the_simplest_python_package:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_node:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_services:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_messages:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_parameters_and_launch_files:/opt/ros/humble:/home/mscrobotics2425laptop35/ros2_wss/install/leo_navigation:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/package_with_interfaces /usr/bin/cmake --build /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/leo_msgs -- -j12 -l12
+[43.861s] Invoking command in '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/leo_msgs': CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_teleop:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_simulator:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_navigation_tutorial_ros2:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_bringup:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_worlds:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_plugins:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_description/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo:/home/mscrobotics2425laptop35/ros2_wss/install/map2gazebo:/home/mscrobotics2425laptop35/ros2_wss/install/example_urdf_robot:/home/mscrobotics2425laptop35/ros2_wss/install/example_gz_robot:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/the_simplest_python_package:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_node:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_services:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_messages:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_parameters_and_launch_files:/opt/ros/humble:/home/mscrobotics2425laptop35/ros2_wss/install/leo_navigation:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/package_with_interfaces /usr/bin/cmake --install /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/leo_msgs
+[43.879s] -- Install configuration: ""
+[43.880s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/ament_index/resource_index/rosidl_interfaces/leo_msgs
+[43.880s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs
+[43.880s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg
+[43.881s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/imu.h
+[43.881s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/wheel_odom_mecanum.h
+[43.881s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/rosidl_generator_c__visibility_control.h
+[43.882s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail
+[43.882s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__type_support.h
+[43.882s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__struct.h
+[43.882s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__type_support.h
+[43.882s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__functions.c
+[43.883s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__struct.h
+[43.883s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__type_support.h
+[43.883s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__functions.h
+[43.883s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__functions.h
+[43.884s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__struct.h
+[43.884s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__struct.h
+[43.884s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__functions.c
+[43.884s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__type_support.h
+[43.885s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__functions.c
+[43.885s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__functions.h
+[43.885s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__functions.c
+[43.885s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__functions.h
+[43.885s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/wheel_states.h
+[43.886s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/wheel_odom.h
+[43.886s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv
+[43.886s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail
+[43.886s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__type_support.h
+[43.887s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__functions.h
+[43.887s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__struct.h
+[43.887s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__functions.c
+[43.887s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/set_imu_calibration.h
+[43.888s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/environment/library_path.sh
+[43.889s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/environment/library_path.dsv
+[43.890s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_generator_c.so
+[43.890s] -- Set runtime path of "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_generator_c.so" to ""
+[43.893s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs
+[43.893s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg
+[43.893s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail
+[43.893s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__rosidl_typesupport_fastrtps_c.h
+[43.893s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__rosidl_typesupport_fastrtps_c.h
+[43.893s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__rosidl_typesupport_fastrtps_c.h
+[43.894s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__rosidl_typesupport_fastrtps_c.h
+[43.894s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[43.894s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv
+[43.894s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail
+[43.894s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__rosidl_typesupport_fastrtps_c.h
+[43.894s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_fastrtps_c.so
+[43.894s] -- Set runtime path of "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[43.894s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs
+[43.895s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg
+[43.896s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[43.896s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail
+[43.896s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__rosidl_typesupport_introspection_c.h
+[43.896s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__type_support.c
+[43.896s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__rosidl_typesupport_introspection_c.h
+[43.897s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__type_support.c
+[43.897s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__rosidl_typesupport_introspection_c.h
+[43.897s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__type_support.c
+[43.897s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__rosidl_typesupport_introspection_c.h
+[43.898s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__type_support.c
+[43.898s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv
+[43.898s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail
+[43.898s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__type_support.c
+[43.898s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__rosidl_typesupport_introspection_c.h
+[43.898s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_introspection_c.so
+[43.899s] -- Set runtime path of "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_introspection_c.so" to ""
+[43.899s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_c.so
+[43.900s] -- Set runtime path of "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_c.so" to ""
+[43.901s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs
+[43.902s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg
+[43.902s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/wheel_states.hpp
+[43.902s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/wheel_odom.hpp
+[43.902s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail
+[43.902s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__struct.hpp
+[43.902s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__builder.hpp
+[43.902s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__builder.hpp
+[43.903s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__traits.hpp
+[43.903s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__builder.hpp
+[43.903s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__struct.hpp
+[43.907s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__traits.hpp
+[43.908s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__traits.hpp
+[43.908s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__struct.hpp
+[43.908s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__struct.hpp
+[43.911s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__builder.hpp
+[43.912s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__traits.hpp
+[43.912s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/imu.hpp
+[43.912s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/wheel_odom_mecanum.hpp
+[43.912s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv
+[43.912s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail
+[43.912s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__traits.hpp
+[43.912s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__builder.hpp
+[43.912s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__struct.hpp
+[43.912s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/set_imu_calibration.hpp
+[43.913s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs
+[43.913s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg
+[43.913s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail
+[43.913s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__rosidl_typesupport_fastrtps_cpp.hpp
+[43.915s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__rosidl_typesupport_fastrtps_cpp.hpp
+[43.915s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__rosidl_typesupport_fastrtps_cpp.hpp
+[43.915s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__rosidl_typesupport_fastrtps_cpp.hpp
+[43.916s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/dds_fastrtps
+[43.916s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[43.916s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv
+[43.916s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail
+[43.916s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__rosidl_typesupport_fastrtps_cpp.hpp
+[43.916s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/dds_fastrtps
+[43.916s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_fastrtps_cpp.so
+[43.916s] -- Set runtime path of "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[43.917s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs
+[43.917s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg
+[43.917s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail
+[43.917s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__type_support.cpp
+[43.917s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom_mecanum__rosidl_typesupport_introspection_cpp.hpp
+[43.917s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__rosidl_typesupport_introspection_cpp.hpp
+[43.917s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__type_support.cpp
+[43.917s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__type_support.cpp
+[43.917s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_states__type_support.cpp
+[43.921s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/imu__rosidl_typesupport_introspection_cpp.hpp
+[43.921s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/msg/detail/wheel_odom__rosidl_typesupport_introspection_cpp.hpp
+[43.921s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv
+[43.921s] -- Up-to-date: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail
+[43.922s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__type_support.cpp
+[43.922s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/include/leo_msgs/leo_msgs/srv/detail/set_imu_calibration__rosidl_typesupport_introspection_cpp.hpp
+[43.922s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_introspection_cpp.so
+[43.922s] -- Set runtime path of "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[43.927s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_cpp.so
+[43.928s] -- Set runtime path of "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_typesupport_cpp.so" to ""
+[43.928s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/environment/pythonpath.sh
+[43.928s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/environment/pythonpath.dsv
+[43.928s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs-1.2.4-py3.10.egg-info
+[43.928s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs-1.2.4-py3.10.egg-info/PKG-INFO
+[43.928s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs-1.2.4-py3.10.egg-info/SOURCES.txt
+[43.928s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs-1.2.4-py3.10.egg-info/top_level.txt
+[43.929s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs-1.2.4-py3.10.egg-info/dependency_links.txt
+[43.929s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs
+[43.929s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg
+[43.929s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_wheel_odom_mecanum.py
+[43.929s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_imu_s.c
+[43.929s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_wheel_odom.py
+[43.929s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_wheel_states.py
+[43.929s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_imu.py
+[43.929s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_wheel_odom_s.c
+[43.929s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_wheel_odom_mecanum_s.c
+[43.930s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/__init__.py
+[43.930s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_wheel_states_s.c
+[43.930s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/leo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[43.931s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/leo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[43.931s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/_leo_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[43.931s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/libleo_msgs__rosidl_generator_py.so
+[43.931s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/_leo_msgs_s.ep.rosidl_typesupport_c.c
+[43.932s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/_leo_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[43.932s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/srv
+[43.932s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/srv/_set_imu_calibration.py
+[43.932s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/srv/_set_imu_calibration_s.c
+[43.932s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/srv/__init__.py
+[43.932s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/leo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[43.932s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/__init__.py
+[44.056s] Listing '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs'...
+[44.057s] Compiling '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/__init__.py'...
+[44.057s] Listing '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg'...
+[44.057s] Compiling '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/__init__.py'...
+[44.057s] Compiling '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_imu.py'...
+[44.058s] Compiling '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_wheel_odom.py'...
+[44.058s] Compiling '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_wheel_odom_mecanum.py'...
+[44.058s] Compiling '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/msg/_wheel_states.py'...
+[44.058s] Listing '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/srv'...
+[44.058s] Compiling '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/srv/__init__.py'...
+[44.058s] Compiling '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/srv/_set_imu_calibration.py'...
+[44.073s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/leo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[44.075s] -- Set runtime path of "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/leo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[44.076s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/leo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[44.077s] -- Set runtime path of "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/leo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[44.078s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/leo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[44.079s] -- Set runtime path of "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/local/lib/python3.10/dist-packages/leo_msgs/leo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[44.080s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_generator_py.so
+[44.081s] -- Set runtime path of "/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/lib/libleo_msgs__rosidl_generator_py.so" to ""
+[44.085s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/msg/Imu.idl
+[44.085s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/msg/WheelOdom.idl
+[44.085s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/msg/WheelOdomMecanum.idl
+[44.085s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/msg/WheelStates.idl
+[44.086s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/srv/SetImuCalibration.idl
+[44.086s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/msg/Imu.msg
+[44.086s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/msg/WheelOdom.msg
+[44.090s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/msg/WheelOdomMecanum.msg
+[44.091s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/msg/WheelStates.msg
+[44.091s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/srv/SetImuCalibration.srv
+[44.092s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/srv/SetImuCalibration_Request.msg
+[44.092s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/srv/SetImuCalibration_Response.msg
+[44.092s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/ament_index/resource_index/package_run_dependencies/leo_msgs
+[44.092s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/ament_index/resource_index/parent_prefix_path/leo_msgs
+[44.093s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/environment/ament_prefix_path.sh
+[44.093s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/environment/ament_prefix_path.dsv
+[44.093s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/environment/path.sh
+[44.094s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/environment/path.dsv
+[44.095s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/local_setup.bash
+[44.095s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/local_setup.sh
+[44.095s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/local_setup.zsh
+[44.096s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/local_setup.dsv
+[44.097s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/package.dsv
+[44.098s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/ament_index/resource_index/packages/leo_msgs
+[44.098s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/export_leo_msgs__rosidl_generator_cExport.cmake
+[44.099s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/export_leo_msgs__rosidl_generator_cExport-noconfig.cmake
+[44.100s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/export_leo_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[44.100s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/export_leo_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[44.101s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/leo_msgs__rosidl_typesupport_introspection_cExport.cmake
+[44.102s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/leo_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[44.102s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/leo_msgs__rosidl_typesupport_cExport.cmake
+[44.103s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/leo_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[44.103s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/export_leo_msgs__rosidl_generator_cppExport.cmake
+[44.103s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/export_leo_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[44.104s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/export_leo_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[44.105s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/leo_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[44.105s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/leo_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[44.105s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/leo_msgs__rosidl_typesupport_cppExport.cmake
+[44.105s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/leo_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[44.105s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/export_leo_msgs__rosidl_generator_pyExport.cmake
+[44.106s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/export_leo_msgs__rosidl_generator_pyExport-noconfig.cmake
+[44.106s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/rosidl_cmake-extras.cmake
+[44.106s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[44.106s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[44.107s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[44.108s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[44.108s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[44.109s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[44.109s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/leo_msgsConfig.cmake
+[44.109s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/cmake/leo_msgsConfig-version.cmake
+[44.109s] -- Installing: /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs/share/leo_msgs/package.xml
+[44.116s] Invoked command in '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/leo_msgs' returned '0': CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_teleop:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_simulator:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_navigation_tutorial_ros2:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_msgs:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_bringup:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_worlds:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_gz_plugins:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/leo_common-ros2/leo_description/install/leo_description:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo:/home/mscrobotics2425laptop35/ros2_wss/install/map2gazebo:/home/mscrobotics2425laptop35/ros2_wss/install/example_urdf_robot:/home/mscrobotics2425laptop35/ros2_wss/install/example_gz_robot:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/the_simplest_python_package:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_node:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_with_a_library:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_services:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_the_messages:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/python_package_that_uses_parameters_and_launch_files:/opt/ros/humble:/home/mscrobotics2425laptop35/ros2_wss/install/leo_navigation:/home/mscrobotics2425laptop35/ros2_tutorial_workspace/install/package_with_interfaces /usr/bin/cmake --install /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/leo_msgs

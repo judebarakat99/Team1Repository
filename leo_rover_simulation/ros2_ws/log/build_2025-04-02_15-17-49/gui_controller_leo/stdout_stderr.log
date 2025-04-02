@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/gui_controller_leo/gui_controller_leo.egg-info/PKG-INFO
+writing dependency_links to ../../build/gui_controller_leo/gui_controller_leo.egg-info/dependency_links.txt
+writing entry points to ../../build/gui_controller_leo/gui_controller_leo.egg-info/entry_points.txt
+writing requirements to ../../build/gui_controller_leo/gui_controller_leo.egg-info/requires.txt
+writing top-level names to ../../build/gui_controller_leo/gui_controller_leo.egg-info/top_level.txt
+reading manifest file '../../build/gui_controller_leo/gui_controller_leo.egg-info/SOURCES.txt'
+writing manifest file '../../build/gui_controller_leo/gui_controller_leo.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages/gui_controller_leo-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/gui_controller_leo/gui_controller_leo.egg-info to /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages/gui_controller_leo-0.0.0-py3.10.egg-info
+running install_scripts
+Installing gui_controller script to /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/gui_controller_leo
+writing list of installed files to '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/install.log'

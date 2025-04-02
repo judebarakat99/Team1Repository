@@ -1,0 +1,60 @@
+[3.038s] Invoking command in '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/gui_controller_leo': PYTHONPATH=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/prefix_override:/home/mscrobotics2425laptop35/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gui_controller_leo build --build-base /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/build install --record /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/install.log --single-version-externally-managed install_data
+[4.244s] running egg_info
+[4.247s] creating ../../build/gui_controller_leo/gui_controller_leo.egg-info
+[4.249s] writing ../../build/gui_controller_leo/gui_controller_leo.egg-info/PKG-INFO
+[4.250s] writing dependency_links to ../../build/gui_controller_leo/gui_controller_leo.egg-info/dependency_links.txt
+[4.251s] writing entry points to ../../build/gui_controller_leo/gui_controller_leo.egg-info/entry_points.txt
+[4.251s] writing requirements to ../../build/gui_controller_leo/gui_controller_leo.egg-info/requires.txt
+[4.252s] writing top-level names to ../../build/gui_controller_leo/gui_controller_leo.egg-info/top_level.txt
+[4.252s] writing manifest file '../../build/gui_controller_leo/gui_controller_leo.egg-info/SOURCES.txt'
+[4.255s] reading manifest file '../../build/gui_controller_leo/gui_controller_leo.egg-info/SOURCES.txt'
+[4.259s] writing manifest file '../../build/gui_controller_leo/gui_controller_leo.egg-info/SOURCES.txt'
+[4.260s] running build
+[4.260s] running build_py
+[4.260s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/build
+[4.260s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/build/lib
+[4.260s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/build/lib/gui_controller_leo
+[4.261s] copying gui_controller_leo/gui_controller.py -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/build/lib/gui_controller_leo
+[4.261s] copying gui_controller_leo/__init__.py -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/build/lib/gui_controller_leo
+[4.264s] running install
+[4.268s] running install_lib
+[4.280s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages/gui_controller_leo
+[4.285s] copying /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/build/lib/gui_controller_leo/gui_controller.py -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages/gui_controller_leo
+[4.286s] copying /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/build/lib/gui_controller_leo/__init__.py -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages/gui_controller_leo
+[4.287s] byte-compiling /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages/gui_controller_leo/gui_controller.py to gui_controller.cpython-310.pyc
+[4.298s] byte-compiling /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages/gui_controller_leo/__init__.py to __init__.cpython-310.pyc
+[4.306s] running install_data
+[4.306s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/ament_index
+[4.306s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/ament_index/resource_index
+[4.307s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/ament_index/resource_index/packages
+[4.308s] copying resource/gui_controller_leo -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/ament_index/resource_index/packages
+[4.308s] copying package.xml -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo
+[4.308s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/launch
+[4.315s] copying launch/gui_controller_launch.py -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/launch
+[4.315s] copying launch/localisation.launch.py -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/launch
+[4.316s] copying launch/slam.launch.py -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/launch
+[4.317s] copying launch/sim_robot.launch.py -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/launch
+[4.317s] copying launch/simulation_bringup.launch.py -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/launch
+[4.318s] copying launch/map_server.launch.py -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/launch
+[4.318s] copying launch/nav_demo.launch.py -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/launch
+[4.318s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/config
+[4.318s] copying config/planner.yaml -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/config
+[4.319s] copying config/controller.yaml -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/config
+[4.321s] copying config/bt_nav.yaml -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/config
+[4.322s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/rviz
+[4.322s] copying rviz/slam.rviz -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/rviz
+[4.323s] copying rviz/localisation.rviz -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/rviz
+[4.324s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/worlds
+[4.324s] copying worlds/tb3.sdf -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/worlds
+[4.325s] copying worlds/model.sdf -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/worlds
+[4.329s] copying worlds/meshes/hexagon.dae -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/worlds
+[4.329s] copying worlds/meshes/wall.dae -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/worlds
+[4.332s] creating /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/maps
+[4.333s] copying maps/turtlebot3_world.yaml -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/maps
+[4.333s] copying maps/turtlebot3_world.pgm -> /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/share/gui_controller_leo/maps
+[4.334s] running install_egg_info
+[4.342s] Copying ../../build/gui_controller_leo/gui_controller_leo.egg-info to /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages/gui_controller_leo-0.0.0-py3.10.egg-info
+[4.347s] running install_scripts
+[4.450s] Installing gui_controller script to /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/gui_controller_leo
+[4.450s] writing list of installed files to '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/install.log'
+[4.578s] Invoked command in '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/gui_controller_leo' returned '0': PYTHONPATH=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/prefix_override:/home/mscrobotics2425laptop35/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gui_controller_leo build --build-base /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/build install --record /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/install.log --single-version-externally-managed install_data

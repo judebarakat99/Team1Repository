@@ -1,0 +1,18 @@
+[31mCMake Error at CMakeLists.txt:32 (find_package):
+  By not providing "Findgui_controller_leo.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "gui_controller_leo", but CMake did not find one.
+
+  Could not find a package configuration file provided by
+  "gui_controller_leo" with any of the following names:
+
+    gui_controller_leoConfig.cmake
+    gui_controller_leo-config.cmake
+
+  Add the installation prefix of "gui_controller_leo" to CMAKE_PREFIX_PATH or
+  set "gui_controller_leo_DIR" to a directory containing one of the above
+  files.  If "gui_controller_leo" provides a separate development package or
+  SDK, be sure it has been installed.
+
+[0m
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1

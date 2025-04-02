@@ -1,0 +1,9 @@
+WHENEVER YOU OPEN LAPTOP - git pull
+
+make your changes,
+
+git add *
+
+git commit -m 'a message describing the changes you made'
+
+git push

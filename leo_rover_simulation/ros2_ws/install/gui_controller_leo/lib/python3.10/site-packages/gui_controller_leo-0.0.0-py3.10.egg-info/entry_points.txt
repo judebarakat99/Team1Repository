@@ -1,0 +1,3 @@
+[console_scripts]
+gui_controller = gui_controller_leo.gui_controller:main
+

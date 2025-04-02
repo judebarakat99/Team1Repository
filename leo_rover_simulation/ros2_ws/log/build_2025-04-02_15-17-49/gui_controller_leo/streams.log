@@ -1,0 +1,21 @@
+[2.409s] Invoking command in '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/gui_controller_leo': PYTHONPATH=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/prefix_override:/home/mscrobotics2425laptop35/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gui_controller_leo build --build-base /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/build install --record /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/install.log --single-version-externally-managed install_data
+[3.272s] running egg_info
+[3.274s] writing ../../build/gui_controller_leo/gui_controller_leo.egg-info/PKG-INFO
+[3.275s] writing dependency_links to ../../build/gui_controller_leo/gui_controller_leo.egg-info/dependency_links.txt
+[3.275s] writing entry points to ../../build/gui_controller_leo/gui_controller_leo.egg-info/entry_points.txt
+[3.277s] writing requirements to ../../build/gui_controller_leo/gui_controller_leo.egg-info/requires.txt
+[3.277s] writing top-level names to ../../build/gui_controller_leo/gui_controller_leo.egg-info/top_level.txt
+[3.284s] reading manifest file '../../build/gui_controller_leo/gui_controller_leo.egg-info/SOURCES.txt'
+[3.287s] writing manifest file '../../build/gui_controller_leo/gui_controller_leo.egg-info/SOURCES.txt'
+[3.289s] running build
+[3.290s] running build_py
+[3.290s] running install
+[3.291s] running install_lib
+[3.299s] running install_data
+[3.299s] running install_egg_info
+[3.303s] removing '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages/gui_controller_leo-0.0.0-py3.10.egg-info' (and everything under it)
+[3.303s] Copying ../../build/gui_controller_leo/gui_controller_leo.egg-info to /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages/gui_controller_leo-0.0.0-py3.10.egg-info
+[3.313s] running install_scripts
+[3.367s] Installing gui_controller script to /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/gui_controller_leo
+[3.368s] writing list of installed files to '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/install.log'
+[3.448s] Invoked command in '/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/src/gui_controller_leo' returned '0': PYTHONPATH=/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/prefix_override:/home/mscrobotics2425laptop35/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/install/gui_controller_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gui_controller_leo build --build-base /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/build install --record /home/mscrobotics2425laptop35/leo_rover_simulation/ros2_ws/build/gui_controller_leo/install.log --single-version-externally-managed install_data
